@@ -1,8 +1,27 @@
 body {
     background-color: lightblue;
+    text-align: center;
     }
     
     h1 {
     color: navy;
     margin-left: 20px;
+    }
+    .Button{
+        background-color: brown;
+        width: 100px;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        text-decoration: none;
+        margin: 20px;
+    }
+    .Content{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        
+
     }
